@@ -1,0 +1,33 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "CustomButtons",
+            "id": "19d87325-0f19-4730-8e1f-e414a486a3d7",
+            "actions": [
+                {
+                    "name": "Red",
+                    "type": "Button",
+                    "id": "802236de-c70c-4d15-9658-cd7c22a1daa2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2a333bcd-034a-42b0-91fc-68263bcaea9f",
+                    "path": "<Joystick>/stick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Red",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
